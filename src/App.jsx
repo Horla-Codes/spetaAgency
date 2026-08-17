@@ -1,10 +1,10 @@
 // src/App.jsx
 import { Routes, Route, Link } from 'react-router-dom';
-import Home from './pages/Home';
-import About from './pages/About';
-import Contact from './pages/Contact';
-import NotFound from './pages/NotFound';
-import Footer from './components/Footer';
+import Home from './Home';
+import About from './About';
+import Contact from './Contact';
+import NotFound from './NotFound';
+import Footer from './component/Footer';
 
 export default function App() {
   return (
